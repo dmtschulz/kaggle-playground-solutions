@@ -1,0 +1,4 @@
+Models:
+LightGBM: Suitable for large datasets and scenarios where training speed and efficiency are critical, such as real-time prediction systems and high-frequency trading.
+XGBoost: Ideal for achieving high accuracy in competitive machine learning tasks and scenarios where custom objective functions and advanced tuning are required.
+CatBoost: Best for datasets with many categorical features and when ease of use and strong out-of-the-box performance are desired, such as in marketing analytics and customer segmentation.
