@@ -4,7 +4,7 @@
 **Approach**:
 - Preprocessing data (handling missing values, feature encoding)
 - Applied a Random Forest model for classification
-- Achieved Score: 78.648
+- Achieved Score: 0.78468
 
 **Tools**: Python, Pandas, Scikit-learn, RandomForestClassifier
 
