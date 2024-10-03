@@ -4,3 +4,4 @@ This repository contains my solutions to various Kaggle Playground competitions.
 
 ## Competitions
 1. [Titanic: Machine Learning from Disaster](./titanic/)
+2. [Binary Classification of Insurance Cross Selling](./insurance_cross_selling/)
